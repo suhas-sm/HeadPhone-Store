@@ -1,4 +1,4 @@
-# HeadPhone-Store [![Template Project](https://img.shields.io/badge/Technologies%20-HTML%2FCSS-brightgreen)]
+# HeadPhone-Store
 
 This is basically a one pager online store design template project made in HTML/CSS for an imaginary headphone 🎧  store on the internet.
 Hope you like my project !! it works good in laptop screen if you are using desktop please zoom in or out that might work .
