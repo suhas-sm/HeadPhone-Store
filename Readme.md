@@ -4,8 +4,8 @@ This is basically a one pager online store design template project made in HTML/
 Hope you like my project !! it works good in laptop screen if you are using desktop please zoom in or out that might work .
 
 ## Technologies Used
-  - HTML - Hyper Text Markup Language
-  - CSS - Cascadeing Spread Sheet
+  - HTML
+  - CSS
   - CSS Flex box
 
 ## Demo
